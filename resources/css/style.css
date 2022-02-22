@@ -7,7 +7,7 @@ body {
 .header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
-    font-size: 50px;
+    font-size: 40px;
     color: white;
 }
 
@@ -27,4 +27,9 @@ h3 {
     font-size: 21px;
     color: gray;
     font-weight: normal;
+}
+
+.copyright {
+    color: grey;
+    text-align: right;
 }
